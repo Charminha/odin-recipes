@@ -1,0 +1,17 @@
+body {
+    background-color: beige;
+}
+
+.homepage-heading {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul, a {
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+}
+
+.recipe-list {
+    margin-left: 150px;
+}
