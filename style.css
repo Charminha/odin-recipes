@@ -12,6 +12,28 @@ ul, a {
     color: brown;
 }
 
+.container {
+    text-align: center;
+}
+
 .recipe-list {
-    margin-left: 150px;
+    display: inline-block;
+    width: 300px;
+    padding: 20px;
+    
+    border: double 4px brown;
+    text-align: center;
+    list-style: none;
+}
+
+.decorative-box {
+    display: inline-block;
+    width: auto;
+    padding: 80px 20px;
+    border: double 4px brown;
+    text-align: center;
+}
+
+.recipe-list-element {
+    margin: 13px;
 }
